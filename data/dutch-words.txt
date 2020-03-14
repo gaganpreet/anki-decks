@@ -28,7 +28,7 @@ bedelen;(1) to beg, (2) to assign, distribute
 bezit;possession
 blij;happy
 besturen;to steer
-burcht(en);castle(s)
+burcht;castle(s)
 besloten;closed,private
 behaard;hairy
 brancard;stretcher
