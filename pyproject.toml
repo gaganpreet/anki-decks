@@ -9,6 +9,8 @@ python = "^3.7"
 genanki = "^0.8.0"
 wiktionaryparser = "^0.0.97"
 jinja2 = "^2.11.1"
+requests-cache = "^0.5.2"
+requests_cache = "^0.5.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
