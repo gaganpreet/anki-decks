@@ -34,7 +34,8 @@ def de_of_het(word):
 
 
 jinja_env.globals.update(de_of_het=de_of_het)
-template = jinja_env.get_template("dutch-words-back.html")
+back_template = jinja_env.get_template("dutch-words-back.html")
+front_template = jinja_env.get_template("dutch-words-front.html")
 dutch_deck = genanki.Deck(79475942179, "Dutch Words")
 
 
@@ -67,7 +68,7 @@ class DutchWords:
             templates=[
                 {
                     "name": "Dutch card",
-                    "qfmt": "<h1><center>{{Question}}</center></h1>",
+                    "qfmt": "{{Question}}",
                     "afmt": "{{Answer}}",
                 },
             ],
@@ -90,7 +91,7 @@ class DutchWords:
         if not definitions:
             logging.warn(f"No definition found for {original_word}")
         pronunciations = entry["pronunciations"]
-        return template.render(
+        return back_template.render(
             definitions=definitions,
             pronunciations=pronunciations,
             word=original_word,
@@ -99,16 +100,17 @@ class DutchWords:
 
     def add_word_to_deck(self, word: str, note: str = "") -> None:
         entries = self.get_word(word)
-        for index, tmpl_str in enumerate(self.get_back_templates(entries, word, note)):
+        question = front_template.render(question=word)
+        for index, answer in enumerate(self.get_back_templates(entries, word, note)):
             note = DutchNote(
-                model=self.get_model(), fields=[word, f"entry-{index}", word, tmpl_str]
+                model=self.get_model(), fields=[word, f"entry-{index}", question, answer]
             )
             dutch_deck.add_note(note)
 
     def read_file(self, file_name: str):
         with open(file_name) as f:
             lines = f.readlines()
-            for line in lines[:50]:
+            for line in lines:
                 word, note = line.split(";")
                 word = re.sub("\([^ ]*\)", "", word)
                 self.add_word_to_deck(word, note)
