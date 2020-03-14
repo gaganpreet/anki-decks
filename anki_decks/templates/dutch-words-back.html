@@ -1,0 +1,137 @@
+{%- macro de_of_het_background(word, part_of_speech) %}
+    {%- if part_of_speech == 'noun' %}
+      {%- with gender = de_of_het(word).value %}
+        {%- if gender == 'de' %}
+          bg-info text-white
+        {%- elif gender == 'het' %}
+          bg-danger text-white
+        {%- else %}
+          bg-secondary text-white
+        {%- endif %}
+      {%- endwith %}
+    {%- endif %}
+{%- endmacro %}
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  </head>
+  <body>
+    <div class="container">
+    <div class="alert alert-primary" role="alert">
+      <h1>{{ word }}</h1>
+    </div>
+    {%- for definition in definitions %}
+    <h3>Definition {{ loop.index }}</h3>
+    <div class="card mb-3">
+      <div class="card-header">
+        <h4>Part of speech:</h4>
+      </div>
+      <div class="card-body {{ de_of_het_background(word, definition.partOfSpeech) }}">
+        <p>{{ definition.partOfSpeech }}</p>
+        {% if definition.partOfSpeech == 'noun' %}
+          <p>{{ de_of_het(word).value }} </p>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="card-header">
+        <h4>Meanings</h4>
+      </div>
+      <div class="card-body">
+      {%- for text in definition.text %}
+      <p>{{ text }}</p>
+      {%- endfor %}
+      </div>
+    </div>
+
+      {%- if definition.examples %}
+    <div class="card mb-3">
+      <div class="card-header">
+        <h4>Examples</h4>
+      </div>
+      <div class="card-body">
+      {%- for example in definition.examples %}
+      <p>{{ example }}</p>
+      {%- endfor %}
+      <br />
+      </div>
+    </div>
+      {%- endif %}
+
+      {%- if definition.relatedWords %}
+    <div class="card mb-3">
+      <div class="card-header">
+        <h4>Related words</h4>
+      </div>
+      <div class="card-body">
+      {%- for related_word in definition.relatedWords %}
+      <p>{{ related_word.relationshipType }}: </p>
+      <ul>
+        {%- for word in related_word.words %}
+        <li>{{ word }}</li>
+        {%- endfor %}
+      </ul>
+      {%- endfor %}
+      </div>
+    </div>
+      {%- endif %}
+      {%- endfor %}
+
+
+      {%- if pronunciations %}
+    <div class="card mb-3">
+      <div class="card-header">
+        <h4>Pronunciations</h4>
+      </div>
+      <div class="card-body">
+      <ul>
+        {%- for text in pronunciations.text %}
+        <li>{{ text }} </li>
+        {%- endfor %}
+      </ul>
+      {%- for audio in pronunciations.audio %}
+      <audio controls>
+        <source src="{{ audio }}" type="audio/ogg">
+      </audio> <br />
+      {%- endfor %}
+      </div>
+    </div>
+      {%- endif %}
+
+    <div class="card mb-3">
+      <div class="card-header">
+        <h4>Note</h4>
+      </div>
+      <div class="card-body">
+      {{ note }}
+      </div>
+    </div>
+
+    <div class="card mb-3">
+      <div class="card-header">
+        <h4>External links</h4>
+      </div>
+      <div class="card-body">
+        <a class="btn btn-primary mb-3" href="https://www.vandale.nl/opzoeken?pattern={{ word }}&lang=nn"
+                                   role="button">Dutch-Dutch Van Dale</a> <br />
+
+        <a class="btn btn-primary mb-3" href="https://www.vandale.nl/opzoeken?pattern={{ word }}&lang=ne"
+                                   role="button">Dutch-English Van Dale</a><br />
+
+        <a class="btn btn-primary mb-3" href="https://www.welklidwoord.nl/{{ word }}"
+                                   role="button">Gender</a><br />
+
+        <a class="btn btn-primary mb-3" href="https://translate.google.com/#nl/en/{{ word }}"
+                                   role="button">Google Translate</a><br />
+
+      </div>
+    </div>
+
+    </div>
+  </body>
+</html>
