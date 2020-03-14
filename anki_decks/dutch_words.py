@@ -1,14 +1,18 @@
 import sys
 import re
-import requests
 import logging
 import genanki
 from typing import Generator, List, Any
 from enum import Enum
 from functools import lru_cache
+import requests
+
+import requests_cache
+requests_cache.install_cache('dutch-words', backend='sqlite')
+
+from anki_decks.common import jinja_env, css
 
 from wiktionaryparser import WiktionaryParser
-from jinja2 import Environment, PackageLoader, select_autoescape
 
 
 class DeOfHet(Enum):
@@ -17,7 +21,6 @@ class DeOfHet(Enum):
     UNKNOWN = "unknown"
 
 
-@lru_cache(50000)
 def de_of_het(word):
     response = requests.get(f"https://www.welklidwoord.nl/{word}")
     data = response.text
@@ -30,16 +33,9 @@ def de_of_het(word):
     return DeOfHet.UNKNOWN
 
 
-env = Environment(
-    loader=PackageLoader("anki_decks", "templates"),
-    autoescape=select_autoescape(["html", "xml"]),
-)
-env.globals.update(de_of_het=de_of_het)
-template = env.get_template("dutch-words-back.html")
+jinja_env.globals.update(de_of_het=de_of_het)
+template = jinja_env.get_template("dutch-words-back.html")
 dutch_deck = genanki.Deck(79475942179, "Dutch Words")
-css = requests.get(
-    "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-).text
 
 
 class DutchNote(genanki.Note):
@@ -79,8 +75,6 @@ class DutchWords:
 
     def get_word(self, query: str) -> List[Any]:
         entries = self.get_parser().fetch(query, "dutch")
-        if not entries:
-            logging.warn(f"No definition found for {query}")
         return entries
 
     def get_back_templates(
@@ -93,6 +87,8 @@ class DutchWords:
         self, entry: str, original_word: str, note: str
     ) -> str:
         definitions = entry["definitions"]
+        if not definitions:
+            logging.warn(f"No definition found for {original_word}")
         pronunciations = entry["pronunciations"]
         return template.render(
             definitions=definitions,
@@ -112,7 +108,7 @@ class DutchWords:
     def read_file(self, file_name: str):
         with open(file_name) as f:
             lines = f.readlines()
-            for line in lines[:10]:
+            for line in lines[:50]:
                 word, note = line.split(";")
                 word = re.sub("\([^ ]*\)", "", word)
                 self.add_word_to_deck(word, note)
