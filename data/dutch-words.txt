@@ -7,11 +7,11 @@ afsterven;to die off
 achilleshiel;achilees heel
 aanreiken;hand over
 amper;nauwelijks
-aanvullend;supplement
+aanvullen;aanvullend,supplement
 afvragen;demand,ask for
 aantreffen;find
 aanklacht;accusation
-afkeurend;negative,disapprovingly
+afkeuren;afkeurend,negative,disapprovingly
 aankijken;look at
 armoedig;poor
 aller tijden;of all time
@@ -30,7 +30,7 @@ blij;happy
 besturen;to steer
 burcht;castle(s)
 besloten;closed,private
-behaard;hairy
+behaaren;grow hair, (behaard, hairy)
 brancard;stretcher
 bleek;pale,white from shock
 bewusteloos;fainted
@@ -43,7 +43,7 @@ boosdoener;culprit
 betrappen;catch,find out
 beekje; streamlet
 begeleiden;accompany
-begenadigd;gifted, talented
+benadigen;to gracefully give (begenadigd, gifted, talented)
 blaten;gelud van schaap
 blaffen;geluid van hond
 brullen;geluid van leeuw
@@ -484,7 +484,7 @@ verveeld;bored
 ver;far
 vracht;freight
 vijver;a small man made lake
-uberhaupt;German - sowieso, anyway
+überhaupt;German - sowieso, anyway
 verdwalen;lost the way
 verschieten;fade
 vent;man,guy
@@ -554,7 +554,7 @@ wimper;eyelash
 wenkbrauw;eyebrow
 weersomstandigheden;weather conditions
 woede;anger,rage
-wrij ven;rub,brush,wipe
+wrijven;rub,brush,wipe
 walvis;whale
 welgesteld;well off,rich
 winstgevend;profitable
