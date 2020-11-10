@@ -19,6 +19,64 @@ achterlijk;backwards
 adembenemend;magnificent,breath taking
 adem;breath
 akker;the field
+afgevallen;lost weight (afvallen)
+asiel;animal shelter
+aftuigen;slaan
+afbladderen;in dunne lagjes loskomen van verf, peeling off
+aanpak;tackle
+aandringen;insist
+ambtenaar;civil worker
+aangrenzend;adjacent
+aandachtig;attentive
+aarzelen;hesitate
+afwijking;deviation
+afschuwelijk;verschrikkelijk
+aankunnen;to manage, be a match for
+aanpraten;talk into, tegen iemand iets praten
+aandoen;aantrekken,harm,inflict
+abdij;abbey
+adel;nobility
+acteursrol;acting role
+aanmoedigen;encourage
+assepoester;cindrella
+afslachting;slaughter,massacre
+aria;lied uit een opera
+apotheose;apotheosis, make something divine
+adelijke;iemand van adel
+aanvankelijk;oorspronkelijk, in het begin
+allerminst;helemaal niet
+aubade;morning love song
+aanknopingspunt;starting point, lead
+aftakelen;achteruitgaan, deteriorate
+autodidakt;autodidact, self learned
+ader;vein
+alomtegenwoordig;omnipresent
+
+# to verify
+achteruitgang;decline, deterioration
+arend;eagle
+afschaffing;abolition,elimination
+afkomen;get rid of, come off
+aalscholver;cormorant
+afgezant;emissary,representative
+asmogendheden;axis powers
+aso;asociaal persoon
+angstaanjagend;terrifying, scary, frightful
+almaar;increasingly, doorgaand
+afkondigen;proclaim,declare
+afwenden;avert, turn off
+afwennen;weaning,stop drinking
+aantreden;take office
+afkeer;aversion, resentment
+aanwijzen;designate, point out, appoint
+akelig;awfully, eerily
+allochtoon;immigrant, foreigner
+afremmen;slow down, brake
+abrupt;plotseling
+angel;stinger, steekorgaan van bij/wasp
+aanhanger;devotee,believer,follower
+aandacht;attention, focus
+
 bezorgd;concerned,troubled
 boomgaard;orchard
 bevel;order,command
@@ -43,7 +101,7 @@ boosdoener;culprit
 betrappen;catch,find out
 beekje; streamlet
 begeleiden;accompany
-benadigen;to gracefully give (begenadigd, gifted, talented)
+begenadigen;to gracefully give (begenadigd, gifted, talented)
 blaten;gelud van schaap
 blaffen;geluid van hond
 brullen;geluid van leeuw
@@ -62,11 +120,138 @@ bevinden;find
 beweging;movement,motion
 bewonderen;admire
 behoeven;need
+bezigheden;activities
+bonzen;pound, throb, knock
+begroeten;greet, salute, cheer
+buigen;bend
+boeren;burp, belch, ook meervoud vaan boer
+bouwvallen;rüines
+bedwang;restrain
+bloot;naked
+botsen;komt hard tegen elkaar,collide
+bijgeloof;superstition
+beweren;claim
+berucht;notorious
+bestempelen;to label
+benadrukken;emphasize
+bedelaar;beggar,bedelares = vrouw
+beeldbuis;screen
+boel;alle dingen, veel, de situatie
+blanke;iemand van lichte huid
+baarmoeder;womb
+bijl;axe
+beul;executioner
+beïnvloeden;influence
+behang;wallpaper
+bodempje;bottom, klein beetje
+bewijzen;proof
+belgeheugen;call history
+bewondering;admiration
+baars;a fish
+brommen;hum, jail
+brommer;motor fiets
+beve;opdracht, order
+blijkbaar;seemingly
+beroven;rob
+bruiloft;wedding
+blaas;bladder
+bliksem;lightning,onverwacht
+beschaving;civilisation
+bazuin;trumpet
+behulpzaam;helpful
+bekeren;convert as in religion
+bondgenoot;ally
+bevoorrecht;privileged
+betrouwen;trust
+bevorderen;verbeteren, improve, promote
+behangen;to wallpaper
+beschouwen;consider
+bezwijming;het flauwvallen, to faint
+boeien;to  handcuff, handcuffs, captivate
+bezetting;occupation, team/cast
+om den brode; for a living
+bekoren; charm
+bark; een type zeilschip
+bepaal;decide, determine
+B&W;burgermeester & wethouders
+bis;used to request an encore
+beminnen;love
+blijspel;comedy
+boze ogg;evil eye, stink eye
+bel canto;beautiful singing
+bevoorrechten;to privilege, elite
+balzaal;balroom
+blits maken;show off
+blits;flashy
+bozemvriend;best friend
+breeedvoerig;detailed,spacious
+berooid;destitute,penniless
+bendeleider;gangleader,crime boss
+brokken;chunks, pieces
+bezem;broom
+brandstapel;pyre,stake
+bedwelmen;benevelen;intoxicate,betoveren
+beieren;luiden van bijv klokken
+balling;exile
+beklagen;pity,complain
+bibberen;shiver
+buitenisig;buiten het normaal
+bezetters;occupiers,invaders
+bemiddelaar;middleman, arbitrator
+
+# To check
+buit;prize, loot, plunder
+bolwerk;stronghold, fortress, citadel
+bacil;germ, bacterium
+belegeren;besiege
+bemanning;crew
+bloedsomloop;blood circulation
+bestorming;storming,assault
+bliksemafleider;lightning rod
+broekspijp;pant leg
+belevenis;experience, adventure
+bedwingen;tegenhouden, control
+besteden; allocate, spend, uitgeven
+beschuldigen;accuse,blame
+berokkenen;harm, aandoen, inflict
+bedienen;operate, serve
+beleid;policy
+beer;mannelijke varken
+big;piglet
+bewaker;guard, warden
+blozen;blush
+band voelen;feel a connection
+bladere;leaf through, turn pages
+beschut;shltered, protected
+bedrieger;fraud, imposter
+beletten;prevent, verhinderen, stop
+te binnen schieten;come to mind, herinneren
+
 creatief;creative
 cliënt;client
 cel;cell
 clinch;ruzie
 concurrentie;competition,rivalry
+concurrren;compete
+comentaar leveren;leave comments
+cru;crude, rough
+couveuse;incubator
+coltrui;een trui met col, turtleneck sweater
+cantharel;een eetbare paddenstoel
+chagrijnig;grumpy
+chirug;surgeon
+chanteren;blackmail
+complot;plot,conspiracy
+contrapunt;counterpoint
+canon;canon (music)
+coulissen;wings
+sta in de coulissen;waiting in the wings
+cipier;gevangenbewaarder
+college;board
+
+# To check
+contrareformatie;counter reformation
+
 drijven;drift,soaked,guide,push
 duwtje;push (from duwen)
 deftig;aristocratic, dignified
@@ -91,6 +276,43 @@ darmen;the bowels
 duik;duck,duiken
 dergelijk;such,similar
 dakpan;tile
+dwars;cross
+dienstverlening;service
+durven;dare
+dringen;push
+dodental;dood+tal,aantal doden
+duizelig;dizzy
+diepgeworteld;deep rooted
+doelgericht;goal oriented
+dakloos;homeless
+dringend;urgent
+dreigen;threaten
+dempen;dichtmaken, minder luid maken
+doorzichtig;transparent
+doodstraf;capital punishment
+draaikolk;whirlpool
+drijven;float
+dwarslaesie;paraplegia
+dwarsbomen;tegenwerken;thwart
+dodenmars;death march
+doorzakken;sag
+dichtheid;density
+duivel;devil
+dapper;brave,moedig
+drijfjacht;manhunt, hunt
+daarentegen;on the other hand, however
+dolzinnig;mad, rabid
+doedelzak;bagpipe
+d.i.; dat is
+d.w.z.;dat wil zeggen
+dirigent;conductor
+diens;van hem/his/her
+duisternis;darkness
+destijds;toen, in de tijd
+dwaas;foolish, crazy
+driftkop;hothead, temper
+droevig;sad
+dwingelandij;tyranny
 eren;to honor
 ernstig;grave,serious,severe
 eenzaam;lonely
