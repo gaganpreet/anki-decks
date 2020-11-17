@@ -313,6 +313,31 @@ dwaas;foolish, crazy
 driftkop;hothead, temper
 droevig;sad
 dwingelandij;tyranny
+draagvlak;support, political/public support
+dicther;poet
+niet alleen koks die lange messen dragen;appearances prove nothing
+dooltocht;erratic journey
+doortrekken;flush, extend
+deining;waves, swell
+dissonant;discordant note
+dienaar;servant,valet
+doorglegging;prohibition
+dienen;serve,use
+dambord;checkerboard
+
+# To check
+dopen;baptise
+duikboot;submarine
+duigen;tatters,shambles
+in duigen vallen; fall apart
+dreun;thump, whack
+dwars doorheen;through and through, right across
+dat je dat niet weet;uitdrukking: what a shame
+dronken bui; drunken stupor
+dooien;doden, dead people,thawing
+deszelfs;van de zelf, ervan
+der;van de
+
 eren;to honor
 ernstig;grave,serious,severe
 eenzaam;lonely
@@ -331,6 +356,35 @@ eindje;the fragment,kortstukje
 erna;after that
 eraan;it,connected to/with
 erfgenaam;hier,inheritor
+echtpaar;married couple
+ergeren;annoy, irritate
+expres;deliberate, opzet
+erg;terrible
+erger;worse
+erfelijk;genetic
+enge;scary,eerie
+engte;narrow pass
+etmaal;een periode van 24 uur
+evoluren;evolve
+ellende;misery,trouble
+edelsteen;gemstone
+elf;fairy (fee), eleven
+elfenkoning;feeënkoning
+estafette;relay
+estafettestokje;relay baton
+eenzelvig;introvert
+estheet;aesthete
+op elkaar lip zitten;in each other's pockets, met elkaar zijn
+enigszins;somewhat, slightly
+eik;oak
+
+# To check
+effen;plain, smooth, single coloured
+ervaren;experienced,skilled
+eenheid;unit,squad, entity
+ertegenin;against,contra
+eendracht;harmony, unity
+
 fraai;beautiful
 fier;proud
 fluiten;whistle
@@ -338,6 +392,25 @@ fors;sterk
 foei;shame! (as exclamation)
 flapdrol;jerk,idiot
 fakkel;torch
+fooi;service charge, tip
+file;traffic jam
+fikken;to burn
+fluisteren;whisper
+flits;flash, short moment
+faam;fame
+fresco;open, refreshing, schilderij op muur
+fietsstroken;bike lanes
+fakkeloptocht; torchlight procession
+fatum;fate
+fut; energy
+futloos;lethargic
+fonkeling; schittering, scintillation
+fanfarekorps;brass band
+
+# To check
+fel;bright, strong, fierce
+fronsen;frown, furrow
+
 geloven;believe
 gevecht;fight, clash
 gier;vulture
@@ -371,6 +444,80 @@ geërfd;inherited
 gedag;goodbye
 geweer;gun,rifle
 graafwerkzaamheden;excavation work
+gunstig;favourable
+golven;waves
+er genoeg van hebben;be sick of it
+gedoe;activity,action
+glimlach;smile
+geschenk;gift, present
+gastheer;host, padrone
+gorgelen;gargle
+gedraaf;het rennen, het hardlopen
+geef niet;does not matter
+gewei;antler
+gehucht;klein dorp
+glanzen;shiny, glistling
+gebrek;tekort
+gevlochten;braided
+gif;poison
+genezen;gezond maken, get better
+glibberen;slither
+geouwehoer;nonsense
+geintje;grapje
+grind;pebbles, gravel
+gebaar;gesture
+goochelaar;magician
+galg;gallows
+krijsen;scream (gekrijs)
+gegil;scream
+gids;tourist guide
+gedenknaald;obelisk
+gewest;region
+geestelijkheid;clergy
+geachte;honourable,dear
+gunst;favour
+geestdriftig;high spirited
+gravure;engraving;
+gevoelig;sensitief
+gedicth;poem
+ten gunste van; in favour of
+gebocheld;hunchback
+gezwollen;swollen,pompous
+garde;guard,lijfwacht
+gesternte;constellation
+gespierd;muscular
+gamelan;Indonesian instrument
+grot;cave
+met de grond gelijk maken;razed, demolished
+
+# To check
+geselen;whip, flog
+grondlsag;basis, foundation
+grofweg;ongeveer,ruwweg
+garnizoen;garrison
+gemenebest;commonwealthgraaf;earl, count, edelman
+groeven;gaat maken in het arde
+gedijen;propser,thrive
+gerucht;rumour
+gijzelen;hostage,kidnap
+gewricht;joint,waar twee boten met elkaar komt
+golfplaten;corrugated sheet
+gelieerde;related,affiliated
+in de gaten houden;opmerken, monitor, watch
+gedonder;thunder, trouble
+giechelen;giggle
+geruststellen;reassure,comfort
+gordel;seat belt
+gokken;gamble, roll the dice
+gleuf;slot,slit, een lange smalle opening
+griezelig;spooky, scary, eng
+gebeden;van bidden (prayed)
+glippen;slip, sneak
+gluren;kijken, peep, pry
+geronommeerd;renowned, reputable
+gedrocht;monstrosity,iets/iemand dat heel lelijk is
+gegrom;growl, grunt
+
 haan;cock
 houden;hield(hold)
 groot houden;be strong
@@ -398,6 +545,56 @@ hersenschudding;concussion
 halsgevel;neck gable
 herprofileren;re-profiling
 herinrichting;refurbishment
+herkennen;recognize
+hoogopgeleid;highly educated
+heersen;rule, dominate
+hak;heel of high shoes, chop
+heilig;holy
+heus;polite, kind, real
+heuvel;hill
+honkbalknuppe;baseball bat
+heg;hedge
+iets hebben aan iets;have use of something
+houding;body pose
+hok;small room for eg: bikes, dogs
+hark;rake
+herberg;inn hotel
+haai;shark
+helder;duidelijk, clear
+houterig;wooden
+herschrijven;rewrite
+hooggeëerd;highly esteemed
+hunebed;dolmen, megalithic tomb
+heldendaden;heroics
+hertog;duke
+hofhouding;royal court
+herberg;inn
+houtvester;forest ranger
+van heinde en verre;overal vandaan
+huppelen;skip, hop
+herbegrafenis;reburial
+held;hero
+handlanger;accomplice
+hartkwaal;heart disease
+heidens;pagan,heathen
+hofkringen;court circles
+handeling;act, action
+herder;shepherd (herderin == shepherdess)
+harlekijn;harlequin
+hebelijkheid;habit,mannerism
+honorarium;fee, retainer
+hagedis;lizard
+houwen;carve
+
+# To check
+horige;serf
+handel drijven;trade
+herhaaldelijk;repeatedly, vaker
+herstellen;repair, recover, heal
+hunkeren;carve, yearn, covet
+hengst;stallion
+hervatten;resume, restart
+
 iaen;geluid van ezel
 ingeslagen;smashed in (van inslaan)
 inslaan;stock up, wholesale
@@ -408,7 +605,36 @@ ineens;suddenly
 indruk;impression,impress,imprint
 ingrijpend;radically,far reaching
 iep;elm
+inklemmen;to sandwich
+ijspegel;icicle
+inhouden;hold back, keep in
+ingooien;smash, throw in
+inlichten;inform
+idool;idol
+invoeren;importeren;introduce
+invloeden;influence
+intreden;onset,begin
+ineenstorten;collapse
+inrekenen;nab, arrest
+ijzel;sleet, freezing, rain
+zich inspannen;make an effort, strive
+
+# To check
+innemen;take, occupy, confiscate
+inpalmen;taken in, sweet talk
+inheems; indigenous, native,domestic, local
+ijveren;strive, promote
+inluiden;herald, usher in, inagurate
+immers;after all, indeed
+
 jakkeren;hard rijden
+jurist;lawyer
+juichen;cheer, welcome
+
+# To check
+jegens;towards, against, tegenover
+jonkie;young one, youngster
+
 kuiken;jong kip
 kwaken;geluid van eend
 kukeleku;cock-a-doodle
@@ -459,6 +685,86 @@ koos;van kiezen,chose
 kleuraccent;colour accent
 kavel;lot
 knakken;break
+kwaad;angry, evil
+kelner;waiter, steward
+kwalijk;slecht, niet goed
+klagen;complain
+koof,hollow moulding
+knipoog;wink
+vette knipoog;wink with double meaning
+kwajongen;brat
+krachtige;powerful
+kerker;dungeon
+krijt;chalk
+kaal;bald
+kluiven;gnaw
+keurig;neat, elegant
+kruipen;crawl
+kotsen;vomit, overgeven
+koppig;stubborn
+klerehoer;cholera whore
+knijpen;to pinch, squeeze
+kloten;balls
+keren;repel, turnaround
+klapper;paper binder, big hit
+kerel;de man
+kajuit;cabin on a ship
+kraken;crack, break, geluid van iets hard breken
+knecht;valet, servant
+knoop;button,knot
+in de knoop zijn;tangled in a knot
+kaatsbaan;Frisian handball field
+koor;choir
+krijgslieden;warriors, soldiers
+kroegentocht;pub crawl
+klucht;farce
+Karel de Stoute;Charles the Bold
+klank;sound
+kortom;in short
+kapel;chapel
+knettergek;crazy,insane
+keurvorst;princ-elector
+koorknaap;choirboy
+kroonluchter;chandelier
+kogel;bullet
+kippenvel;goosebumps
+krankzinnig;crazy,insane
+kenlpunt;bottleneck
+knellen;pinch,squeeze
+kader;framework,context
+kaartlegster;card reader, fortune teller
+knoeien;tamper, mess
+koesteren;cherish, houden van
+Karmelieten;carmelites
+koket;flirty, coquette
+krijgshaftig;martial,aggressive
+
+# To check
+krijgvoeren;oorlog voeren
+kruin;crown, top of heard
+kielzog;in the wake, following
+kiel;keel
+ketterij;heresy
+kameraad;comrade
+kloof;gap, groot gat, disparity
+kernproef;nuclear test
+kenmerk; feature, characteristic
+koers;richting, direction, price
+koers varen; chart course
+kernramp;nuclear disaster
+klauteren; climb, scramble
+kuifeend;tufted duck
+kerven;carve, notches
+kreet;cry, gil scream
+kiem;bud, germ, seed
+kater;hangover, tomcat
+kudde;flock, herd, gaggle of
+knorren;grunt;geluid van varken
+kokhalzen;gag, retch
+kengetal;area code, prefix
+knal;bang, explosion
+knul;jongen, kid, boy
+
 laten;liet(keep, leave, arrange)
 lot;fate
 leeuwen;lions (leeuw)
@@ -480,6 +786,55 @@ lafaard;coward
 loodzwaar;very heavy
 lichtmast;lamppost
 lantaarnpaal;lamppost
+leidinggevend;managerial
+lui;lazy, idle
+lullen;bullshit
+leuzen;slogans
+lap;een stuck van stof, textiel
+leger;army
+leugen;a lie
+liegen;to lie
+logeerpartij;sleepover
+litteken;scar
+lichaamshouding;posture
+lijkbaar;bier (for a corpse)
+lier;lyre
+lenigheid;agility, flexibility
+lintje;medal
+lijkmis;dead mass
+legpuzzel;jigsaw puzzle
+op leeftijd;een beetje oud
+lijden;suffer
+landgenoten;country men
+levensruimte;living space
+luieren;relax, loiter
+tot level wekken;to revive, resuscitate
+laaien;blaze, heel hard branden
+longontstekking;pneumonia
+lijnrecht;straight as a line
+losse flodders;blanks in a gun
+lakoniek;laconic
+lokken;lure, attract
+losbol;libertine, irresponsible
+list;ruse, trick
+
+# To check
+leenheer;liege lord
+leenman;feudal tenant
+lijfeigene;serf,bondsman
+luiken;shutters, shutter
+loopgraaf;trench
+lezing;reading,lecture
+lusteloos;lethargic, lifeless
+losbarsten;break loose, erupt
+lassen;weld
+lukken;work, succeed
+lofzang;hymn, praise, ode
+labiel;unstable, erratic
+loop;gunbarrel
+lint, ribbon, een lange smalle stof
+lakzegel;wax seal
+
 massaal;heelveel
 mager;lean
 moe;tired
@@ -502,6 +857,48 @@ mening;opinion
 medaillon;medallion,locket
 metselaar;mason
 maatregel;measure
+machtigen;endorse, empower
+mompelen;mumble
+meevallen;improve
+middel;(1) means, agent, (2) waist
+meid;girl, lass
+mandfles;carboy (a kind of container)
+moedig;brave
+machten;powers
+magie;magic
+matroos;sailor
+modder;vieze natte grond = blubber
+medelijden;compassion, pity
+musici;musicians
+minnaar;lover
+mondain;sophisticated, mondain
+menuet;minuet (French origin dance)
+menigte;mob crowd
+madelief; daisy
+mallemolen;merry go round
+minstreel;minstrel
+mal;gek, silly, mould, cast
+mecenas;patron of the arts
+markant;remarkable, striking
+martelen;torture
+mandarijn;iemand van regering
+maliënkolder;chain mail
+maretak;mistletoe
+mijlpaal;milestone
+
+# To check
+mui;suatiegeul,tidal creek
+monnik;monk
+mank;limp, loop met een been die niet goed is
+misoogsten;failed crops
+melaatse;leper
+maf;crazy, gek
+mogendheid;power, might
+merrie;mare
+makker;vriend, dude, mate
+moed; strength
+moed inspreken;instill courage, encourage
+
 nut;profit,usefullness
 nou;now
 navel;belly button
@@ -514,6 +911,32 @@ normaliter;normally
 nagedachtenis;memory,rembrance
 neer;down
 nadien;subsequently,later
+namens;on behalf of
+naar binnen werken;gobble
+neerstrijken;gaan zitten of gaan wonen
+neerzetten;(1) to seat, (2) put down
+neerknallen;kill loudly
+niveau;level
+nagedacht;think about
+nieuwsgierig;curious
+nazaat;offspring, nakomeling
+narren;jesters
+navelstaren;navelgazing
+neervallen;fall down
+noch en noch; neither and nor
+neurieën;hum
+nederig;humble
+neigen;tend, incline, predisposed
+niettemin;nevertheless, nonetheless
+nederzetting;settlement, colony
+nijlpaard;hippopotamus
+
+# To check
+neerbuigen;bow down (also deteriorate)
+naarmate;as, according to
+navelstreng;umbilical cord
+naar;bad, unpleasant, awful
+
 opvallen;stand out
 onverveerd;niet bang, courageous
 oliesjeik;oil sheikh
@@ -550,6 +973,108 @@ opdracht;command,commission
 onroerend;immovable
 ontwortelen;uproot,eradicate
 ontstaan;originate,arise
+opvoeden;educate
+onverwacht;unexpected, abrupt
+omgeving;environment, surroundings
+onderzoek;research, investigation
+overgang;(1) transition, change, (2) menopause
+overwegen;overthink, consider
+overgeven;hand over, vomit
+overdrachtelijk;figurative,imaginative
+opzij;on the side
+onbeschaafd;uncivilised
+onbehouwen;crude, uncouth
+onderschatten;underestimate
+oordelen;judge
+ongesteld;(1) woman's period, (2) beetje ziek
+orkaan;tropical cyclone
+opscheppen;to boast, show off, dish out
+opkomen voor, verdedigen, to defend
+ondoorzichtig;opaque
+opnemen;record, answer phone
+ontsporen;derail
+onbenullig;onbelangrijk
+onhandelbaar;unmanageable
+optocht;celebration parade
+oer-;van heel lang geleden, oorspronkelijk
+oerwoud;een groot wild bos, jungle
+optellen; add
+optelsom;sum
+omstreeks;ongeveer in de tijd van, rond, omtrent
+ongetwijfeld;zonder twijfel, beslist, zeker
+ophijsen;hoist
+omvangrijk;extensive, comprehensive
+omzwerving;wandering
+onstuimig;turbulent,wild
+onoverwinnelijk;invincible
+ontwaken;awaken
+ontvouwen;unfold
+onbetwist;undisputed
+ontrollen;unfold,unroll
+ontketenen;spark,trigger,incite
+ongelikte boer;unlicked bear, rude, boor
+opvoeden;grootbrengen, raise
+omtoveren;transform
+onverschillig;indifferent
+het plan opvatten om;get an idea
+overheersing;domination
+opheffen;remove, abolish
+omownden;entwined
+optreden;occure, perform, v.t.: optraden
+onafzienbare;countless, endless
+overstralen;outshine
+oplappen;patch up, fix
+opera buffa;comic opera
+os;ox
+oeros;aurochs
+ontberen;lack, deprived
+onthullen;bekend maken,reveal
+ontvlammen;ignite,in vlam rakken
+overdadig;excessive
+oorverdovend;deafening
+ontrouw;infidelity,disloyalty
+ontgoochelen;disappoint
+ontginnen;reclmation,cultivate
+omwenteling;de revolutie, turn around
+o.a.; onder andere
+opvoedkundig;pedagogic,parenting
+oneerbiedig;disrespectful
+onverbiddelijk;inexorable,relentless
+oeral geberte,Ural mountains
+onderwijzer;teacher
+opars;advance, rise, progress, stijging
+omvangrijk;large, comprehensive, vast
+oppervlak;surface, area
+oerknal;big bang
+onderverdelen;subdivide
+overblijfsel;remnant, restand
+opgaande;rising, upgoing
+
+# To check
+omkomen;doodgaan, die
+ontluiken;sprout, bud
+onderspit delven;lose, verlizen
+oprukken;advance, march
+omgewoeld;aarde die lose gemaakt is
+ommekeer;turnaround, reversel
+opstandeling;insurgent, rebel, militant
+onderduiken;dive, abscond, go hiding
+ontbinden;dissolve, decompose, unbind
+ophitsen;incite, antagonize
+onrechtvaardig;unjust, unfair
+overleven;outlive, survive
+opgewonden;excited
+ongevoelig;insensitive, indifferent
+ooi;vrouwlijkschaap (ewe)
+omlijsting;bezel, frame
+oker;geel bruin pigment, ochre
+opvanghuis;shelter for homeless people
+opletten;pay attention
+opwinden;excited
+overredingskracht;powers of persuasion
+opperbest;supreme
+onberispelijk;impeccable, flawless, foutloos
+
 piep;geluid van een muis
 paste;aanpassen,adjusted,plakken
 poosje;little while,period of time
