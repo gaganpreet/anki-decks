@@ -1097,6 +1097,52 @@ plakkerig;sticky
 penseelstreek;brush stroke
 potlood;pencil
 puin;rubble,debris
+puber;adolescent
+passen;suit, fit with
+poos;while
+plaswand;urinal
+pauw;peacock
+pitten;slapen,fruit pit
+plee;toilet
+plicht;duty
+pees;tendon
+plechtigheid;ceremony
+profeet;prophet
+paus;pope
+plezierig;pleasant
+pasja;pasha,ruler
+pracht en praal;splendour
+partituur;sheet music, score
+put;well (to store water)
+proviand;provisions,supplies
+piste;circus ring
+pralend;schitterend
+predkiken;preach
+preek;sermon, lecture
+pruik;wig
+penibele;uncomfortable, precarious
+
+
+## To check
+pro; voor
+pro-deo;voor deus, voor niks
+puissant;wealthy, krachtig
+paaigrond;spawning ground
+poes;vrouwelijke kat
+pollepel;wooden spoon, ladle
+porie;pore
+peper in zijn reet;heel actief, hoog tempo
+pet;hat, cap
+paraat;standing by, on alert
+plataan;plane tree
+
+
+## To check
+qua;zoals, regarding
+quasi;almost, nearby
+quo;(Latijn) where
+quo vardis;where are you going?
+
 rennen;rende,run
 rekenen;to calculate
 richten;to aim
@@ -1125,6 +1171,47 @@ rechtekroonlijst;straight cornice
 razen;rage
 rampgebeid;disaster area
 ruïne;ruin
+redeneren;argu, discourse
+rekruit;recruit
+rillen;shiver
+rivierkreeft;crayfish
+ruiten;windows,kleur bij kaartspel
+ritsen;to zip
+rust;peace
+rouw;sorrow
+roofdier;predator bijv. leeuw
+redelijk;acceptable, reasonable
+ruit;glas in een raam, rhombus
+regisseur;leader, director
+rover;robber
+rots;rock
+riet;fluit, reed
+rondell;dans
+ritme;rhythm
+requiem;mass for the dead
+roem;fame
+raadsel;riddle,mystery
+rotsen;cliffs
+raden;guess
+recitatief;recitative
+rijtoer;drive
+rotstekening;rock painting/art
+
+## To check
+rooftocht;raid
+roddeblad;tabloid
+rein;pure,clean
+rimpel;wrinkle, furrow
+rolluiken;shutters
+reu;mannelijke hond
+ram;mannelijke schaap
+reet;ass, butt
+ratelen;rattle, babbelen
+rijtuig;carriage, coach
+revers;coat lapel
+rariteiten;weirdness,oddities, rare dingen
+reuma;rheumatism
+
 schrikken;geschrokken,startled
 staat op z'n kop;turned upside down
 spalken;gespalkt,splint,put in splint
@@ -1184,6 +1271,131 @@ souterrain;basement
 scheuren;tear,rupture,rip
 stofwolk;cloud of dust
 staat;state
+steek;stab, put, insert, badpan
+steel;stem,shaft, handle
+stemvork;tuning fork
+staal;steel
+streken;regions
+stip;dot, point, polka dot
+scheren;shave
+slingeren;swing, sway
+slok;swallow, gulp
+schelen;ail, differ, care
+scheel oog;cross eye
+snuiven;sniff
+smakken;smack with mouth
+schenken;give, pour, gift
+strot;throat, gorge
+stukkrabben;kapot makken door krabben
+stuntelen;fumble, bumble
+schurft;scabies
+strijd voeren;fight
+straal;stream
+stokoud;heel erg oud
+stapel;een gestructureerde hoop spullen
+snor;mustache
+schedel;skull
+schoorsteen;chimney
+smoel;gezicht, face
+snuffelen;rond kijken omdat je nieuwsgierig bent
+schoot;lap
+spijbelen;skip class
+sodemieter;flikker (scheldwoord)
+sodemieter op; piss off
+sodomiet;sodomy, bedrijver (sodomite)
+stel;het paar, pair/couple
+stoer;sturdy
+spoken in m'n hoofd;ghosts in my head
+schuldig;guilty
+schelden;to curse
+stumper;pitiable person
+scheepsruim;ship hold
+slachten;slaughter
+kan me niet schelen;I don't care
+schuldgevoel;remorse
+slachtoffer;victim
+samentrekken;pull together, contract
+schijnheilig;hypocriet
+stroming;water current, flow
+snaar;string in an instrument
+strakspannen;stretched taut
+schepping;creation
+stout;bad, naughty
+schatkist;treasure chest
+straatroeper;street announcer
+snars;niks
+souper;supper
+solorol;solo role
+snit;cut (noun)
+stoffelijk overschot;remains, relics
+schuilnaam;alias
+sabel;sabre
+strottenhoofd;larynx
+scheidsmuur;barrier, dividing wall
+schrijnend;poignant
+standbeeld;statue
+scheppen;to create
+stierenvechter;matador, bullfighter
+scemerdonker;twilight
+sfeer;atmosphere
+spoorwegbeambte;railway employee
+scheikunde;chemistry
+schets;sketch
+sneuvelen;die, perish
+splijten;split
+schaking;elopment
+slagwerk;percussion, drums
+smeden;forge, smith
+schande;shame
+sluw;devious, cunning
+seriële;serial
+smart;sorrow, grief, misery
+sudderen;simmer, langzaam koken
+spijkerschrift;cuneiform
+stroomopwarts;upstream
+scarabee;scarab
+stengel;stem
+stichten;start, establish
+schiereiland;peninsula
+
+
+## To check
+spannen;stretch
+schuimden;bezoeken
+spietsen;impale, to stake
+schijnbekering;schin+bekering: apparant religious conversion
+schutting;hedge
+schimmelen;mold
+schelp;shell, conch
+schrikbewind;reign of terror
+stort in elkaar;fall apart
+sonde;probe, space probe
+sluipschutter;sniper
+schenden;violate,breach, abuse
+schuilhouden;verbergen, hide, lay low
+smeulen;smoulder
+schaars;scarse
+staatsgreep;coup d'ètat,takeover
+stuiten;come up,encounter, tegenhouden
+schipbreuk;shipwreck
+stekken;plant cutting
+stijf;stiff, rigid, sore
+stuurloos;out of control, adrift
+schoorsteen;chimney
+sproetjes;freckles
+spandoek;banner
+snuifje;pinch, sniff
+strijder;warrior, fighter
+van streek brengen; to upset
+spugen;spit
+schichtig;skittish, jumpy
+snikheet;broiling, very hot
+spottend;mocking, belachelijk maken
+strikje;bow tie
+slotbijeenkomst;final gathering, wrap up event
+sip;sad, glum, telurgesteld
+stikken;choke, suffocate
+
 treuzelen;to be slow
 tranen;tears
 tepel;nipple
