@@ -1417,12 +1417,108 @@ toedracht;how it happened
 trechter;funnel
 treffen;take,hit,strike
 tent;tent
+tapijt;carpet,tapestry
+tevoren;before,previously
+toe te geven; to accept, admit
+teleurgesteld;disappointed
+trouwens;besides, moreover
+tor;beetle
+tussenschot;divider
+treffen;hit the mark
+tulband;turban
+tenger;thin
+tuig;sllechte mensen, scum
+tyfus wijf;scheldwoord: typhoid woman
+toonbank;counter
+tolk;interpreter
+toevertrouwen;entrust, confide
+tijdrovend;time consuming
+troep;chaos, army troop
+tatoeage;tatoo
+timmeren;hammer
+touw;rope
+trappen;schoppen, kick
+toeschouwer;onlooker, bystander
+twijfel; doubt
+truc;ruse, trick, =(de list)
+ton;barrel,€10.0000, 1000kg
+terugkeren;teruggaan, return
+tijdperk;time period, tijdvak
+triest;sad
+toverkracht;magic
+tocht;trip
+trommel;drum
+toekennen;grant, assign, award
+t.a.v.;ten aanzien van
+t.o.v;ten opzicht van
+tokkelen;pluck, strum (like a guitar)
+tevergeefs;zonder resultaat,in vain
+trosteren;endure, defy
+toewijding;dedication, devotion
+tarten;taunt,defy,uitdagen
+teneergeslagen;dejected, teleurgesteld
+trollen;trolls
+troon;throne
+troonbestijging;accession to throne
+temmen;tame, tamed
+ten tonele;come on the scene, appear
+tambour;drum major, field commander
+teloorgang;downfall, demise, ondergang
+trant;style, vein eg: in the same vein
+trimfboog;triumphal arch
+
+## To check
+tegenspoed;situatie die niet gunstig is, het ongeluk, adversity, misfortune
+tegenvoet;antipode, counterpart
+trekschuit;tow boat, a boat pulled by a horse
+thermiek;thermal
+toestel;device, apparatus
+troef;asset, trump, advantage
+teisteren;plague, afflict, ravage
+toegeroepen;stopped, halted
+tastbaar;tangible, palpable
+teef;vrouwelijke hond
+trosten;comfort, console
+tl-licht;fluorescent light
+tweemaster;ketch, two masted sailboat
+terstond;immediately, meteen
+
+uit te houden; maintainable,houdbaar
+urn;the urn (for ashes)
+uitglijden;to slip
+überhaupt;German - sowieso, anyway
+uitpuilend;protude,bulge
+uiteindelijk;finally
+uitgebeeld;afgebeld,depicted,represented
+uitbeelden;depict,represent
+uiterst;extremely,enormously
+uitlopen;taking longer than expected
+uitzondering;exception
+uitstek;excellent
+uitblinker;star, ace
+uitschelden;abuse, scold
+uitgangspunt;starting point
+uitvoeren;perform, carry out
+uitspattingen;debauchery, extravagance
+uitdaging;challenge
+uiting;expression, manifestation
+uitstoten;expel, emit, exile
+uitputten;exhaust, deplete
+
+## To check
+uitmoorden; kill, murder, exterminate
+uitbreiden;extend, expand
+uitheems;foreign, alien, exotic
+uitwijken;swerve, deflect, emigrate
+uittocht;exodus
+uitkomen;come true, release, hatch
+uitgever;publisher, editor
+
 verbouwd;rebuilt
 verstoren;disturb,interrupt
 verveelvoudigen;to multiply
 vee;livestock
 verhaal;story
-uit te houden; maintainable,houdbaar
 vouw;crease
 verkennen;to explore,scout
 vlug;quick
@@ -1432,9 +1528,7 @@ verstrooid;forgetful
 voelen;to feel
 venster;window
 verantwoordelijk;responsible
-urn;the urn (for ashes)
 vies;dirty
-uitglijden;to slip
 vreselijk;horrible
 verlichting;relief,ook lighting
 verdoven;anesthetize
@@ -1443,7 +1537,6 @@ verveeld;bored
 ver;far
 vracht;freight
 vijver;a small man made lake
-überhaupt;German - sowieso, anyway
 verdwalen;lost the way
 verschieten;fade
 vent;man,guy
@@ -1456,12 +1549,10 @@ verwoesten;demolished
 verschijnen;appeare
 vloek;curse
 verknocht;devoted
-uitpuilen;protude,bulge
 vertakking;branch
 vastgoed;real estate
 verdienen;earn
 verdenking;suspicion
-uiteindelijk;finally
 verdwijnen;vanish,disappear
 verstokt;traditional,stubborn
 volgen;followed
@@ -1470,7 +1561,6 @@ vastpakken;hold tight
 vegen;sweep,wipe
 vervloekt;curse,damned
 voorziening;facility
-wegjagen;exorcise,scare away
 verbazen;surprise
 viel;fall (vallen)
 verwerven;acquire,krijgen
@@ -1478,22 +1568,135 @@ verwaardigen;vouchsafe,deem worthy of
 vermoedelijk;probably,waarschijnlijk
 vloeind;flowing
 voorttrekken;voort+trekken,drag,tow forward
-uitgebeeld;afgebeld,depicted,represented
-uitbeelden;depict,represent
-uiterst;extremely,enormously
 verzamelen;collect,gather
 vertrekken;leave,depart
 veilen;auction
 verspreid;sparse,diffuse
 voorheen;v/h,before,vroeger
 vernielen;destroy,unbuild
-verband;connection
 voorgevoel;permonition
+vervuiling;pollution
+verzorgingsstaat;welfare state
+verte;distance, faraway
+vergrootglas;magnifying glass
+verraden;betray
+verrader;traitor
+verstaan;understand
+verdragen;bear, endure
+verveling;boredom
+voornamelijk;mainly
+voeren;feed, to lead/take somewhere
+verlegen;shy
+vurig;fiery, fervently
+vangen;to catch
+voile;hele dunne stof
+verschuilen;hide
+velen;many
+vergezocht;far fetched
+verwaarlozen;neglect
+vereerd;worship
+vlek;dirty spot, with spots
+vuil;dirty
+versieren;iets mooi maken, regelen, organise
+verdelen;to divide in  pieces
+vorst;ruler, monarch, freeze
+vruchtwater;amniotic fluid
+viezerd;dirty, (van vies)
+vaarder;iemand die vaart
+vijand;enemy,iemand die je haat
+vleermluis;bat
+volkswoede;public anger
+verdachte;suspect
+verteren;digest
+verteerbaar;digestible
+verward;confused
+verband;connection, bandage
+voorspelling;prediction
+voorsprong;lead, head start
+vergissing;mistake, error
+verrukkeliljk;zalig, heerlijk
+verovering;conquest
+vergaan;perish
+verdwijderen;remove, uninstall
+vedel;fiddle
+vorst;monarch
+vorstendom;principality
+verschijnsel;het fenomeen
+veelbewogen;eventful, troubled
+verovering;conquest, capture
+voorspoed;prosperity
+vernietigen;destroy
+vloot;een groep schepen, fleet
+verwarring;confusion
+verbijsterend;ontstellend, heel erg verbaasd
+vreugde;joy, happiness
+verpletterend;crushed, squashed
+verrek;damn
+vermommen;disguise
+verlammen;paralyze
+verdedigen;defend
+vulkan;volcano
+vleierij;flattery
+verrmdeling;stranger
+vrouw van lichte zeden;whore, lichtekooi
+voltrekken;execute
+voedster;wet nurse
+vlinder;butterfly
+verrukken;delight
+veristische;realism
+vuurpeloten;firing squad
+verscheuren;drown
+vos;fox
+verhandeling;discussion, essay
+versmaden;spurn, disdain, despise
+vaartuig;vessel, craft
+verstandkies;wisdom tooth
+verjagen;chase away, expel, evict
+veldheer;commander, warlord
+veldslag;battle
+verslappen;weaken,slacken
+verwant;related, similar
+
+## To check
+vlam vatten;catch fire
+voortduren;continue, persist
+verdrag;treaty, pact
+vagevuur;purgatory
+voortreffelijk;excellent
+vierendeel;one-fourth,dismember
+
+verheerlijken;glorify, celebrate
+verwerp;reject, dismiss, = ontkennen
+verbeelding;imagination,depiction
+verbannen;banish, exile
+verknipt;iemand gek is, kooky, ook papier knippen
+verschuiven;bewegen,shift, move
+verdragen;to tolerate
+verongelukken;crash, accident
+verheven;raise, elevate, uplift
+verwekken;beget, conceive, provoke
+vermageren;lose weight, dieting
+verschrompelen;shrivel up, kleiner worden
+verergeren;worsen, exacerbate
+vliegveld;airport
+voorstad;suburb, outskirts
+verpesten;ruin, bederven
+voorlezen;read out aloud
+verwantschap;kinship, relationship, affinity
+verbergen; hide, conceal, disguise
+verzuiling;pillarisation
+vedette;star
+vaag;vague,sketchy
+verbroedering;fraternization,brotherhood
+vanzelfsprekend;of course, goes without saying
+voorbedachte;pre-meditated
+
 woud;forest
 wraak;reveng
 wier;seaweed
 weeën;contractions
 wee;pain
+wegjagen;exorcise,scare away
 werkelijk;really
 wetende;knowing
 wissen;erase
@@ -1523,6 +1726,48 @@ weduwe;widow
 weduwnaar;widower
 windwijzer;weather vane
 wolk;cloud
+wennen;get used to, habituate
+waxinelicht;theelicht
+weglokken;seduce
+watje;wimp, nerd
+wiens;van wie
+wegrijden;drive away
+walvis;whale
+weghalen;van zijn plaats halen
+weddenschap;bet
+woest;furious, angry
+werkstaking;strike
+weetje;trivia
+waanzinnig;crazy, delusional
+wijden;devote, dedicate
+weemoedig;melancholic, wistful
+weggerukt;snatched, torn away
+wijdingen;ordinations
+aan de wilgen hangen;to give up, retire
+wiegenlied;lullaby
+weerspiegelen;reflect
+walsen;waltz
+wemelen;swarm, teem with
+wijds;wide, panoramic
+weelderig;lush, luxurious, luscious
+wervel;spine, vertebra
+
+
+## To check
+wantoestand;abuse, mismanagement
+wedergeboorte;rebirth, regeneration
+wedijveren;compete, rival
+welvarend;prosperous, wealthy
+witte doek;film doek,scherm
+wederopbouw;reconstruction, rebuild
+wankelen;shake, waver, stagger, niet stabiel
+wond;wound, injury
+waarnemer;observer, watcher
+weerkaatsen;reflect, bounce
+woerd;mannelijke eend, mallard
+wilddief;poacher
+waggelen;waddle, stagger
+
 zeeën;seas (van zee)
 zot;crazy
 zat;enough,plenty,verleden tijd van zitten
@@ -1543,3 +1788,47 @@ zich zorgen maken; care for, worry about
 zeis;scythe
 zegewagen;the victory chariot
 zover;so far
+
+zo'n;zo een
+zweven;hover, float
+zwezerik;sweetbread
+zwammen;fungi
+zwerver;homeless person
+zwak;weak, feeble
+zielig;pathetic
+zwaailicht;police light
+zeehond;seal
+zeemeermin;mermaid
+zalig;blessed, heel prettig
+zegepraal;triumph
+zwerm;swarm
+zuiver;puur
+zooloog;zoologist
+zodanig;op zo'n manier, so
+zwanenzang;swansong, last work
+ziel;soul
+zigeuner;gypsy
+zeden;morals
+zielsverwarring;soul confusion
+zakdoek;handkerchief
+zeerover;pirate
+zgn;zogenaamd, so-called
+zoogdier;mammal
+zuil;column
+zijde;side, silk
+zogen;suckle, nurse
+zwaartekracht;gravity
+zweefvliegtuig;glider
+zetelen;sit, reside, throne
+zeug;vrouwelijke varken, sow
+aan kop zeuren;nag, criticise
+zoemen;buzz, hum
+zachtjes;gently, softly
+een zootje van maken;rootzooi, make a mess
+ze zijn het zat; fed up, tired of
+zonnesteek;heat stroke
+zoenen;kiss, kussen
+zoëven;moment ago
+zeepaardje;sea horse
+zwierig;gracefully, elegant
+zoom;edge, seam, kant
