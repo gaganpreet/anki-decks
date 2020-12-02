@@ -190,7 +190,7 @@ bendeleider;gangleader,crime boss
 brokken;chunks, pieces
 bezem;broom
 brandstapel;pyre,stake
-bedwelmen;benevelen;intoxicate,betoveren
+bedwelmen;benevelen,intoxicate,betoveren
 beieren;luiden van bijv klokken
 balling;exile
 beklagen;pity,complain
@@ -293,7 +293,7 @@ doodstraf;capital punishment
 draaikolk;whirlpool
 drijven;float
 dwarslaesie;paraplegia
-dwarsbomen;tegenwerken;thwart
+dwarsbomen;tegenwerken,thwart
 dodenmars;death march
 doorzakken;sag
 dichtheid;density
@@ -477,7 +477,7 @@ geestelijkheid;clergy
 geachte;honourable,dear
 gunst;favour
 geestdriftig;high spirited
-gravure;engraving;
+gravure;engraving
 gevoelig;sensitief
 gedicth;poem
 ten gunste van; in favour of
@@ -495,7 +495,7 @@ geselen;whip, flog
 grondlsag;basis, foundation
 grofweg;ongeveer,ruwweg
 garnizoen;garrison
-gemenebest;commonwealthgraaf;earl, count, edelman
+gemenebest;commonwealthgraaf,earl, count, edelman
 groeven;gaat maken in het arde
 gedijen;propser,thrive
 gerucht;rumour
@@ -611,7 +611,7 @@ inhouden;hold back, keep in
 ingooien;smash, throw in
 inlichten;inform
 idool;idol
-invoeren;importeren;introduce
+invoeren;importeren,introduce
 invloeden;influence
 intreden;onset,begin
 ineenstorten;collapse
@@ -759,7 +759,7 @@ kreet;cry, gil scream
 kiem;bud, germ, seed
 kater;hangover, tomcat
 kudde;flock, herd, gaggle of
-knorren;grunt;geluid van varken
+knorren;grunt,geluid van varken
 kokhalzen;gag, retch
 kengetal;area code, prefix
 knal;bang, explosion
